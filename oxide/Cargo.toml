@@ -1,0 +1,10 @@
+[package]
+name = "oxide"
+version = "0.1.0"
+edition = "2021"
+authors = [ "Sebastian Christiansen" ]
+
+[lib]
+crate-type = [ "lib", "staticlib" ]
+
+[dependencies]
