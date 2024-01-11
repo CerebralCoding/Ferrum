@@ -6,6 +6,10 @@ This repository serves both as a sample project and as a template for your own p
 
 The project will be updated along with the accompanying videos on my YouTube channel. You can find the channel [here](https://www.youtube.com/@CerebralCoding).
 
+## Blog posts
+
+- [Embed a Rust library in Xcode](https://cerebralcoding.com/blog/embed-a-rust-library-in-xcode/)
+
 ## Requirements
 
 - Xcode 15.1
