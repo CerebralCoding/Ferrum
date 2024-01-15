@@ -10,6 +10,10 @@ The project will be updated along with the accompanying videos on my YouTube cha
 
 - [Embed a Rust library in Xcode](https://cerebralcoding.com/blog/embed-a-rust-library-in-xcode/)
 
+## Videos
+
+- [Embed a Rust library in Xcode](https://youtu.be/VnNRaw9JEIg)
+
 ## Requirements
 
 - Xcode 15.1
