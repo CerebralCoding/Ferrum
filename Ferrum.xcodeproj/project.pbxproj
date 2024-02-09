@@ -11,7 +11,7 @@
 		9EE205D02B400F220035F984 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EE205CF2B400F220035F984 /* ContentView.swift */; };
 		9EE205D22B400F220035F984 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EE205D12B400F220035F984 /* Assets.xcassets */; };
 		9EE205D52B400F220035F984 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EE205D42B400F220035F984 /* Preview Assets.xcassets */; };
-		9EE205E22B4010440035F984 /* liboxide.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EE205E02B4010220035F984 /* liboxide.a */; };
+		9EE205E22B4010440035F984 /* liboxide.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EE205E02B4010220035F984 /* liboxide.a */; platformFilters = (ios, macos, xros, ); };
 		9EE205E52B4010930035F984 /* FfiBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = 9EE205E32B4010630035F984 /* FfiBridge.h */; };
 /* End PBXBuildFile section */
 
@@ -351,6 +351,7 @@
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "${PROJECT_DIR}/FfiBridge.h";
 				SWIFT_STRICT_CONCURRENCY = complete;
@@ -385,6 +386,7 @@
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "${PROJECT_DIR}/FfiBridge.h";
 				SWIFT_STRICT_CONCURRENCY = complete;
