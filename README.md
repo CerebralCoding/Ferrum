@@ -1,18 +1,8 @@
 # Ferrum - Using Rust libraries in Xcode
 
-This is a sample project that shows how to use Rust libraries in Xcode.
+This is a sample project that shows how to use Rust libraries in Xcode. You can use it as a template for your own projects, just fork and modify it to your liking.
 
-This repository serves both as a sample project and as a template for your own projects. Fork and modify it to your liking.
-
-The project will be updated along with the accompanying videos on my YouTube channel. You can find the channel [here](https://www.youtube.com/@CerebralCoding).
-
-## Blog posts
-
-- [Embed a Rust library in Xcode](https://cerebralcoding.com/blog/embed-a-rust-library-in-xcode/)
-
-## Videos
-
-- [Embed a Rust library in Xcode](https://youtu.be/VnNRaw9JEIg)
+I wrote a blog about it if you would like to dive into the technincal stuff: [Embed a Rust library in Xcode](https://cerebralcoding.com/blog/embed-a-rust-library-in-xcode/)
 
 ## Requirements
 
